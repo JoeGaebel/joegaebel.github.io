@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5defe3d4.chunk.css",
-    "main.js": "/static/js/main.32cc00fa.chunk.js",
-    "main.js.map": "/static/js/main.32cc00fa.chunk.js.map",
+    "main.js": "/static/js/main.fafa5124.chunk.js",
+    "main.js.map": "/static/js/main.fafa5124.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.30e701f8.js",
     "runtime-main.js.map": "/static/js/runtime-main.30e701f8.js.map",
     "static/js/2.d8d7e47a.chunk.js": "/static/js/2.d8d7e47a.chunk.js",
@@ -28,13 +28,13 @@
     "static/media/sailboat.a83d3aa5.svg": "/static/media/sailboat.a83d3aa5.svg",
     "static/media/service.110f3dc7.png": "/static/media/service.110f3dc7.png",
     "static/media/spherelink.387fe56d.png": "/static/media/spherelink.387fe56d.png",
-    "static/media/watch-with-dad.40f92cfb.png": "/static/media/watch-with-dad.40f92cfb.png",
+    "static/media/watch-with-dad.645f85e8.png": "/static/media/watch-with-dad.645f85e8.png",
     "static/media/western.3c7bdd2d.png": "/static/media/western.3c7bdd2d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.30e701f8.js",
     "static/js/2.d8d7e47a.chunk.js",
     "static/css/main.5defe3d4.chunk.css",
-    "static/js/main.32cc00fa.chunk.js"
+    "static/js/main.fafa5124.chunk.js"
   ]
 }
