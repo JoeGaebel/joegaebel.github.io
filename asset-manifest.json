@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.ad299edd.chunk.css",
-    "main.js": "/static/js/main.66caf3de.chunk.js",
-    "main.js.map": "/static/js/main.66caf3de.chunk.js.map",
+    "main.js": "/static/js/main.0706b8c0.chunk.js",
+    "main.js.map": "/static/js/main.0706b8c0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.30e701f8.js",
     "runtime-main.js.map": "/static/js/runtime-main.30e701f8.js.map",
     "static/js/2.d8d7e47a.chunk.js": "/static/js/2.d8d7e47a.chunk.js",
@@ -32,6 +32,7 @@
     "static/media/sailboat.a83d3aa5.svg": "/static/media/sailboat.a83d3aa5.svg",
     "static/media/service.110f3dc7.png": "/static/media/service.110f3dc7.png",
     "static/media/spherelink.387fe56d.png": "/static/media/spherelink.387fe56d.png",
+    "static/media/surfbutler.2bcab1c4.png": "/static/media/surfbutler.2bcab1c4.png",
     "static/media/watch-with-dad.645f85e8.png": "/static/media/watch-with-dad.645f85e8.png",
     "static/media/western.3c7bdd2d.png": "/static/media/western.3c7bdd2d.png"
   },
@@ -39,6 +40,6 @@
     "static/js/runtime-main.30e701f8.js",
     "static/js/2.d8d7e47a.chunk.js",
     "static/css/main.ad299edd.chunk.css",
-    "static/js/main.66caf3de.chunk.js"
+    "static/js/main.0706b8c0.chunk.js"
   ]
 }
