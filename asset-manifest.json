@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.0b52bab8.css",
-    "main.js": "/static/js/main.b668d643.js",
+    "main.js": "/static/js/main.dfb9e15f.js",
     "static/js/496.a47e3225.chunk.js": "/static/js/496.a47e3225.chunk.js",
     "static/media/surfbutler.png": "/static/media/surfbutler.2bcab1c459156136c62a.png",
+    "static/media/garage.png": "/static/media/garage.718c80a95d4f72b59836.png",
     "static/media/spherelink.png": "/static/media/spherelink.387fe56debaaaa69089b.png",
     "static/media/watch-with-dad.png": "/static/media/watch-with-dad.645f85e8c0c2d75bc465.png",
     "static/media/dylAndJoe.jpg": "/static/media/dylAndJoe.d200afb8f94d3bd2e30e.jpg",
@@ -40,11 +41,11 @@
     "index.html": "/index.html",
     "static/media/sailboat.svg": "/static/media/sailboat.a83d3aa5db38b8562df1503d14a27ba1.svg",
     "main.0b52bab8.css.map": "/static/css/main.0b52bab8.css.map",
-    "main.b668d643.js.map": "/static/js/main.b668d643.js.map",
+    "main.dfb9e15f.js.map": "/static/js/main.dfb9e15f.js.map",
     "496.a47e3225.chunk.js.map": "/static/js/496.a47e3225.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b52bab8.css",
-    "static/js/main.b668d643.js"
+    "static/js/main.dfb9e15f.js"
   ]
 }
