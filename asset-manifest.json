@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0b52bab8.css",
-    "main.js": "/static/js/main.dfb9e15f.js",
+    "main.js": "/static/js/main.37969cce.js",
     "static/js/496.a47e3225.chunk.js": "/static/js/496.a47e3225.chunk.js",
     "static/media/surfbutler.png": "/static/media/surfbutler.2bcab1c459156136c62a.png",
     "static/media/garage.png": "/static/media/garage.718c80a95d4f72b59836.png",
@@ -41,11 +41,11 @@
     "index.html": "/index.html",
     "static/media/sailboat.svg": "/static/media/sailboat.a83d3aa5db38b8562df1503d14a27ba1.svg",
     "main.0b52bab8.css.map": "/static/css/main.0b52bab8.css.map",
-    "main.dfb9e15f.js.map": "/static/js/main.dfb9e15f.js.map",
+    "main.37969cce.js.map": "/static/js/main.37969cce.js.map",
     "496.a47e3225.chunk.js.map": "/static/js/496.a47e3225.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b52bab8.css",
-    "static/js/main.dfb9e15f.js"
+    "static/js/main.37969cce.js"
   ]
 }
