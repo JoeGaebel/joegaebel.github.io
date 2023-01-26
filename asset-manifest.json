@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0b52bab8.css",
-    "main.js": "/static/js/main.19d75927.js",
+    "main.js": "/static/js/main.886efc3c.js",
     "static/js/496.a47e3225.chunk.js": "/static/js/496.a47e3225.chunk.js",
     "static/media/surfbutler.png": "/static/media/surfbutler.2bcab1c459156136c62a.png",
     "static/media/garage.png": "/static/media/garage.718c80a95d4f72b59836.png",
@@ -15,6 +15,7 @@
     "static/media/christian.jpeg": "/static/media/christian.935880347c39a84d637a.jpeg",
     "static/media/ProzaLibre-ExtraBold.ttf": "/static/media/ProzaLibre-ExtraBold.5008c7bd04c2feddab8b.ttf",
     "static/media/ProzaLibre-ExtraBoldItalic.ttf": "/static/media/ProzaLibre-ExtraBoldItalic.12b03c74c7f1eb9ab0b6.ttf",
+    "static/media/paulette.jpeg": "/static/media/paulette.e5a5fe16e77cbed51832.jpeg",
     "static/media/ProzaLibre-SemiBold.ttf": "/static/media/ProzaLibre-SemiBold.518a24ce4bc37bf858bb.ttf",
     "static/media/ProzaLibre-Bold.ttf": "/static/media/ProzaLibre-Bold.847e4ccf16036b7bd7b1.ttf",
     "static/media/ProzaLibre-SemiBoldItalic.ttf": "/static/media/ProzaLibre-SemiBoldItalic.0b2a1fffedbb3ab0dff8.ttf",
@@ -24,7 +25,7 @@
     "static/media/ProzaLibre-Regular.ttf": "/static/media/ProzaLibre-Regular.4805a20f13bf01f19096.ttf",
     "static/media/ProzaLibre-Italic.ttf": "/static/media/ProzaLibre-Italic.66b31a08f3e3fdbfd944.ttf",
     "static/media/surf-life-saving.png": "/static/media/surf-life-saving.33d12b0005db9f48ef47.png",
-    "static/media/paulette.jpeg": "/static/media/paulette.a7c90cede0c59a02f34e.jpeg",
+    "static/media/andrew.jpeg": "/static/media/andrew.7f4c33d50a649c58a098.jpeg",
     "static/media/gary.jpeg": "/static/media/gary.62048512778d7702f7c1.jpeg",
     "static/media/iag.png": "/static/media/iag.66bfcc03f12d57a2fe41.png",
     "static/media/joseph.jpeg": "/static/media/joseph.174c9854f6ea18382379.jpeg",
@@ -33,7 +34,6 @@
     "static/media/service.png": "/static/media/service.110f3dc791882e8d242a.png",
     "static/media/fede.jpeg": "/static/media/fede.0fb8dda9a691fdac1ef9.jpeg",
     "static/media/western.png": "/static/media/western.3c7bdd2d078042995d1b.png",
-    "static/media/andrew.jpeg": "/static/media/andrew.b932dfc8180a334003d1.jpeg",
     "static/media/amjad.jpeg": "/static/media/amjad.52203245e9838453ac8a.jpeg",
     "static/media/david.jpeg": "/static/media/david.3a9d0e9def3d81bc1e19.jpeg",
     "static/media/pathzero.svg": "/static/media/pathzero.54a87b2c7e824e137af61e7fa33750d8.svg",
@@ -41,11 +41,11 @@
     "index.html": "/index.html",
     "static/media/sailboat.svg": "/static/media/sailboat.a83d3aa5db38b8562df1503d14a27ba1.svg",
     "main.0b52bab8.css.map": "/static/css/main.0b52bab8.css.map",
-    "main.19d75927.js.map": "/static/js/main.19d75927.js.map",
+    "main.886efc3c.js.map": "/static/js/main.886efc3c.js.map",
     "496.a47e3225.chunk.js.map": "/static/js/496.a47e3225.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b52bab8.css",
-    "static/js/main.19d75927.js"
+    "static/js/main.886efc3c.js"
   ]
 }
