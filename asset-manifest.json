@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0b52bab8.css",
-    "main.js": "/static/js/main.8f7d0a15.js",
+    "main.js": "/static/js/main.5b80d900.js",
     "static/js/496.a47e3225.chunk.js": "/static/js/496.a47e3225.chunk.js",
     "static/media/surfbutler.png": "/static/media/surfbutler.2bcab1c459156136c62a.png",
     "static/media/garage.png": "/static/media/garage.718c80a95d4f72b59836.png",
@@ -22,6 +22,7 @@
     "static/media/ProzaLibre-BoldItalic.ttf": "/static/media/ProzaLibre-BoldItalic.3ad4e647f28caf2fc67c.ttf",
     "static/media/ProzaLibre-MediumItalic.ttf": "/static/media/ProzaLibre-MediumItalic.69b6493cda3cb4f7e03a.ttf",
     "static/media/ProzaLibre-Medium.ttf": "/static/media/ProzaLibre-Medium.c0535971346be1e56231.ttf",
+    "static/media/rhett.jpeg": "/static/media/rhett.dc9944ed403a6d958aaa.jpeg",
     "static/media/ProzaLibre-Regular.ttf": "/static/media/ProzaLibre-Regular.4805a20f13bf01f19096.ttf",
     "static/media/ProzaLibre-Italic.ttf": "/static/media/ProzaLibre-Italic.66b31a08f3e3fdbfd944.ttf",
     "static/media/surf-life-saving.png": "/static/media/surf-life-saving.33d12b0005db9f48ef47.png",
@@ -41,11 +42,11 @@
     "index.html": "/index.html",
     "static/media/sailboat.svg": "/static/media/sailboat.a83d3aa5db38b8562df1503d14a27ba1.svg",
     "main.0b52bab8.css.map": "/static/css/main.0b52bab8.css.map",
-    "main.8f7d0a15.js.map": "/static/js/main.8f7d0a15.js.map",
+    "main.5b80d900.js.map": "/static/js/main.5b80d900.js.map",
     "496.a47e3225.chunk.js.map": "/static/js/496.a47e3225.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b52bab8.css",
-    "static/js/main.8f7d0a15.js"
+    "static/js/main.5b80d900.js"
   ]
 }
