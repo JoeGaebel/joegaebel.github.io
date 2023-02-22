@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b52bab8.css",
-    "main.js": "/static/js/main.a797d05b.js",
-    "static/js/496.a47e3225.chunk.js": "/static/js/496.a47e3225.chunk.js",
+    "main.css": "/static/css/main.790149c0.css",
+    "main.js": "/static/js/main.4e9f031b.js",
+    "static/js/522.84207b53.chunk.js": "/static/js/522.84207b53.chunk.js",
     "static/media/surfbutler.png": "/static/media/surfbutler.2bcab1c459156136c62a.png",
     "static/media/garage.png": "/static/media/garage.718c80a95d4f72b59836.png",
     "static/media/spherelink.png": "/static/media/spherelink.387fe56debaaaa69089b.png",
@@ -40,13 +40,10 @@
     "static/media/pathzero.svg": "/static/media/pathzero.54a87b2c7e824e137af61e7fa33750d8.svg",
     "static/media/link.svg": "/static/media/link.7a6ebb3d053ae045fb708ed5f112aa7c.svg",
     "index.html": "/index.html",
-    "static/media/sailboat.svg": "/static/media/sailboat.a83d3aa5db38b8562df1503d14a27ba1.svg",
-    "main.0b52bab8.css.map": "/static/css/main.0b52bab8.css.map",
-    "main.a797d05b.js.map": "/static/js/main.a797d05b.js.map",
-    "496.a47e3225.chunk.js.map": "/static/js/496.a47e3225.chunk.js.map"
+    "static/media/sailboat.svg": "/static/media/sailboat.a83d3aa5db38b8562df1503d14a27ba1.svg"
   },
   "entrypoints": [
-    "static/css/main.0b52bab8.css",
-    "static/js/main.a797d05b.js"
+    "static/css/main.790149c0.css",
+    "static/js/main.4e9f031b.js"
   ]
 }
