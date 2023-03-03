@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.790149c0.css",
-    "main.js": "/static/js/main.4e9f031b.js",
+    "main.js": "/static/js/main.66a1edd3.js",
     "static/js/522.84207b53.chunk.js": "/static/js/522.84207b53.chunk.js",
     "static/media/surfbutler.png": "/static/media/surfbutler.2bcab1c459156136c62a.png",
     "static/media/garage.png": "/static/media/garage.718c80a95d4f72b59836.png",
@@ -44,6 +44,6 @@
   },
   "entrypoints": [
     "static/css/main.790149c0.css",
-    "static/js/main.4e9f031b.js"
+    "static/js/main.66a1edd3.js"
   ]
 }
