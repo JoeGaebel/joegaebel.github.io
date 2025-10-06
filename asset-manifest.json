@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.790149c0.css",
-    "main.js": "/static/js/main.df521600.js",
+    "main.css": "/static/css/main.8978cb39.css",
+    "main.js": "/static/js/main.555819b4.js",
     "static/js/522.84207b53.chunk.js": "/static/js/522.84207b53.chunk.js",
     "static/media/surfbutler.png": "/static/media/surfbutler.2bcab1c459156136c62a.png",
     "static/media/garage.png": "/static/media/garage.718c80a95d4f72b59836.png",
     "static/media/spherelink.png": "/static/media/spherelink.387fe56debaaaa69089b.png",
+    "static/media/joe.jpg": "/static/media/joe.003e61094a60d7c734a0.jpg",
     "static/media/watch-with-dad.png": "/static/media/watch-with-dad.645f85e8c0c2d75bc465.png",
     "static/media/dylAndJoe.jpg": "/static/media/dylAndJoe.d200afb8f94d3bd2e30e.jpg",
     "static/media/mission-statement.pdf": "/static/media/mission-statement.95ee88195e0cb71618e7.pdf",
     "static/media/rentifier.png": "/static/media/rentifier.8ebe98f3adf29e33ffca.png",
-    "static/media/joe.jpg": "/static/media/joe.c27c06c5ff9e34384d15.jpg",
+    "static/media/joe-boat.jpg": "/static/media/joe-boat.c27c06c5ff9e34384d15.jpg",
     "static/media/SZC.png": "/static/media/SZC.f6c727051a4fcdf32299.png",
     "static/media/christian.jpeg": "/static/media/christian.935880347c39a84d637a.jpeg",
     "static/media/ProzaLibre-ExtraBold.ttf": "/static/media/ProzaLibre-ExtraBold.5008c7bd04c2feddab8b.ttf",
@@ -25,9 +26,9 @@
     "static/media/rhett.jpeg": "/static/media/rhett.dc9944ed403a6d958aaa.jpeg",
     "static/media/ProzaLibre-Regular.ttf": "/static/media/ProzaLibre-Regular.4805a20f13bf01f19096.ttf",
     "static/media/ProzaLibre-Italic.ttf": "/static/media/ProzaLibre-Italic.66b31a08f3e3fdbfd944.ttf",
-    "static/media/surf-life-saving.png": "/static/media/surf-life-saving.33d12b0005db9f48ef47.png",
     "static/media/andrew.jpeg": "/static/media/andrew.7f4c33d50a649c58a098.jpeg",
     "static/media/atlassian.png": "/static/media/atlassian.ea6e13ee37ef46449467.png",
+    "static/media/kffab.png": "/static/media/kffab.a942900e88449dc8cc69.png",
     "static/media/gary.jpeg": "/static/media/gary.62048512778d7702f7c1.jpeg",
     "static/media/iag.png": "/static/media/iag.66bfcc03f12d57a2fe41.png",
     "static/media/joseph.jpeg": "/static/media/joseph.174c9854f6ea18382379.jpeg",
@@ -44,7 +45,7 @@
     "static/media/sailboat.svg": "/static/media/sailboat.a83d3aa5db38b8562df1503d14a27ba1.svg"
   },
   "entrypoints": [
-    "static/css/main.790149c0.css",
-    "static/js/main.df521600.js"
+    "static/css/main.8978cb39.css",
+    "static/js/main.555819b4.js"
   ]
 }
