@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8978cb39.css",
-    "main.js": "/static/js/main.555819b4.js",
+    "main.js": "/static/js/main.3f2a8497.js",
     "static/js/522.84207b53.chunk.js": "/static/js/522.84207b53.chunk.js",
     "static/media/surfbutler.png": "/static/media/surfbutler.2bcab1c459156136c62a.png",
     "static/media/garage.png": "/static/media/garage.718c80a95d4f72b59836.png",
@@ -9,6 +9,7 @@
     "static/media/joe.jpg": "/static/media/joe.003e61094a60d7c734a0.jpg",
     "static/media/watch-with-dad.png": "/static/media/watch-with-dad.645f85e8c0c2d75bc465.png",
     "static/media/dylAndJoe.jpg": "/static/media/dylAndJoe.d200afb8f94d3bd2e30e.jpg",
+    "static/media/afr-article.png": "/static/media/afr-article.cbb3f06ca26da7023686.png",
     "static/media/mission-statement.pdf": "/static/media/mission-statement.95ee88195e0cb71618e7.pdf",
     "static/media/rentifier.png": "/static/media/rentifier.8ebe98f3adf29e33ffca.png",
     "static/media/joe-boat.jpg": "/static/media/joe-boat.c27c06c5ff9e34384d15.jpg",
@@ -46,6 +47,6 @@
   },
   "entrypoints": [
     "static/css/main.8978cb39.css",
-    "static/js/main.555819b4.js"
+    "static/js/main.3f2a8497.js"
   ]
 }
